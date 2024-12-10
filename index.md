@@ -1,6 +1,7 @@
-# NYC Data Analysis Projects
+# Computing in Context -  Projects Page
 
-Welcome to my data analysis portfolio! This site contains a series of projects analyzing various aspects of New York City data.
+Hey! I'm Arshiya.
+This site contains the 3 projects I have completed for the Computing in Context class at SIPA Columbia. Browse through Projects 1,2 and 3, all of which are data analysis exercises.
 
 ## Projects
 
