@@ -1,4 +1,4 @@
-# Computing in Context -  Projects Page
+# Homepage
 
 Hey! I'm Arshiya.
 This site contains the 3 projects I have completed for the Computing in Context class at SIPA Columbia. Browse through Projects 1,2 and 3, all of which are data analysis exercises.
