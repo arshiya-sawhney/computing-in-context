@@ -4,7 +4,7 @@ Welcome to my data analysis portfolio! This site contains a series of projects a
 
 ## Projects
 
-### [Project 1: Title of Your First Project](project_1/project_1.ipynb)
+### [Project 1: Titfjwerfionle of Your First Project](project_1/project_1.ipynb)
 
 Brief description of your first project
 
