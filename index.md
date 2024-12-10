@@ -5,14 +5,14 @@ This site contains the 3 projects I have completed for the Computing in Context 
 
 ## Projects
 
-### [Project 1: Titfjwerfionle of Your First Project](project_1/project_1.ipynb)
+### [Project 1](project_1/project_1.ipynb)
 
-Brief description of your first project
+Affordable Housing Units per NYC Borough
 
-### [Project 2: Examining Income](project_2/project_2.ipynb)
+### [Project 2](project_2/project_2.ipynb)
 
-Brief description of your second project
+City Funding and Graduation Rates in NYC
 
-### [Project 3: Examining Income Growth in US States.](project_3/project_3.ipynb)
+### [Project 3](project_3/project_3.ipynb)
 
-Brief description of your third project
+xamining Income Growth in US States
