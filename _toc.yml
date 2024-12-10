@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+chapters:
+  - file: project_1/project_1
+    title: Affordable Housing Production.
+  - file: project_2/project_2
+    title: School Spending and Graduation.
+  - file: project_3/project_3
+    title: Examining Income Growth in US States.
